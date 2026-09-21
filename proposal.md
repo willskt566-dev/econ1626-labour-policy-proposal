@@ -50,3 +50,69 @@ With unemployment at 4.5% (ABS 2026), the problem is distribution, not mass unem
 | Young entrants | Fewer entry-level hires | Monitoring must track entry-level vacancies |
 
 ---
+
+
+## 3. Policy Options and Evaluation
+
+| Option | Mechanism | Target | Scale and cost |
+|---|---|---|---|
+| Status quo | Existing employment services, Free TAFE and guidance | Jobseekers | No new cost; helps only after job loss |
+| A. AI Transition Skills Accounts | $3,000 account (roughly Free TAFE's cost per place; DEWR n.d.) for courses with proven job outcomes, as in Singapore's SkillsFuture Level-Up (MOE 2024) | Workers in high-automation-exposure occupations, about 590,000 people (DISR 2026; ABS 2026) | 40,000 accounts a year; $126m a year incl. admin |
+| B. AI Adjustment Wage Insurance | Pays 50% of the pay gap for two years (cap $10,000 a year) when displaced workers take lower-paid jobs; self-financing in the US (Hyman et al. 2024) | Displaced workers aged 45+ from exposed occupations | 5,000-person pilot; $40m a year |
+| C. AI Consultation Standard and Job Redesign Fund | Fair Work Ombudsman guidance that significant AI deployment triggers consultation terms on major workplace change (*Fair Work Act 2009* (Cth) s 205); SME grants up to $25,000 to redesign roles with staff | Adopting firms and staff | 400 grants a year; $10m a year |
+| D. Monitoring with Published Triggers | Quarterly monitoring and annual JSA exposure updates; a published trigger (exposure growth gap above 3 points in 12 months; about 1.2 now) scales B nationally | Whole labour market | $4m a year |
+
+Scores run from 1 (weak) to 5 (strong) on **efficiency** (correcting market failure with little deadweight loss), **equity** (reaching workers least able to adjust), **feasibility**, **fiscal cost** and **adaptability**.
+
+| Criterion (weight) | Status quo | A | B | C | D |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Efficiency (25%) | 2 | 3 | 4 | 3 | 4 |
+| Equity (25%) | 2 | 4 | 3 | 3 | 2 |
+| Feasibility (20%) | 5 | 3 | 3 | 4 | 5 |
+| Fiscal cost (15%) | 5 | 2 | 4 | 5 | 5 |
+| Adaptability (15%) | 1 | 3 | 5 | 3 | 5 |
+| **Weighted score** | **2.90** | **3.10** | **3.70** | **3.50** | **4.00** |
+
+**Trade-offs.** D scores highest but helps no worker directly. B does most per dollar, but only after displacement; C is cheapest but relies on employers. A ranks lowest on cost and deadweight risk, yet only A reaches in-work, female-majority exposed workers before job loss. The options are complements (A and C prevent, D detects, B responds), and a 35% equity weight leaves the ranking unchanged.
+
+---
+
+## 4. Recommended Package and Implementation Plan
+
+Adopt D and C now, phase in A, and legislate B as a pilot the triggers can scale. This buys the option to scale up without committing large sums early.
+
+| Timing | Action | Responsibility | Cost |
+|---|---|---|---|
+| Q4 2026 | Embed package in Forum guidance; agree triggers | DEWR Workplace Relations; Forum | Existing budget |
+| From Q1 2027 | Quarterly monitoring; annual exposure refresh | DEWR Chief Economist; JSA | $4m/yr |
+| May 2027 | Fund A to C in 2027–28 Budget; issue guidance | DEWR; Treasury; Fair Work Ombudsman | Nil |
+| From Jul 2027 | Job Redesign Fund opens | DEWR | $10m/yr |
+| From Jan 2028 | Skills Accounts open | DEWR; state training authorities | $126m/yr |
+| From Jul 2028 | Wage insurance pilot; scale-up only on trigger | DEWR; Services Australia | $40m/yr |
+| Ongoing | Align SME support with PC data-access reforms | DEWR; Treasury | Existing budget |
+
+**Total:** about $440 million to 2029–30, partly offset by lower income support if re-employment speeds up (Hyman et al. 2024).
+
+| KPI | Target | Source |
+|---|---|---|
+| Accounts used by eligible workers | At least 80% by June 2029 | Account records |
+| Women among account holders | At least 55% | Account records |
+| Employment after two years | 5 points above matched non-participants | ABS linked data (PLIDA) |
+| Wage insurance re-employment | One quarter faster than workers just under 45 | Age-cutoff comparison (Hyman et al. 2024) |
+| SME redesign grants | 400 a year | Grant records |
+
+An independent 2029–30 evaluation decides whether each measure scales, continues or closes.
+
+---
+
+## 5. Risks and Mitigations
+
+| Risk | Mitigation |
+|---|---|
+| AI cause of job loss cannot be proven | Eligibility uses exposure plus displacement |
+| Accounts fund training that would happen anyway | Targeting, curated courses, outcome-based payments |
+| Low take-up by those most at risk | Outreach via Workforce Australia, unions and employers |
+| Wage insurance subsidises low-paying employers | Two-year limit and $10,000 cap |
+| Employers ignore guidance | Anchor in existing law; publish uptake |
+
+---
