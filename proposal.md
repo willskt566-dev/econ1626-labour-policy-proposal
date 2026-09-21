@@ -51,7 +51,6 @@ With unemployment at 4.5% (ABS 2026), the problem is distribution, not mass unem
 
 ---
 
-
 ## 3. Policy Options and Evaluation
 
 | Option | Mechanism | Target | Scale and cost |
@@ -116,3 +115,47 @@ An independent 2029–30 evaluation decides whether each measure scales, continu
 | Employers ignore guidance | Anchor in existing law; publish uptake |
 
 ---
+
+## References
+
+ABS (Australian Bureau of Statistics) (2026) *Labour force, Australia, July 2026*, ABS website, accessed 21 September 2026. https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/jul-2026
+
+Acemoglu D (2025) 'The simple macroeconomics of AI', *Economic Policy*, 40(121):13-58, doi:10.1093/epolic/eiae042.
+
+Acemoglu D and Restrepo P (2019) 'Automation and new tasks: how technology displaces and reinstates labor', *Journal of Economic Perspectives*, 33(2):3-30, doi:10.1257/jep.33.2.3.
+
+Armstrong C (17 September 2026) 'Labor considers smart glasses restrictions, new national AI standards', *ABC News*, accessed 21 September 2026. https://www.abc.net.au/news/2026-09-17/labor-smart-glasses-restrictions-national-ai-standards/107166138
+
+Brynjolfsson E, Chandar B and Chen R (2025a) *Canaries in the coal mine? Six facts about the recent employment effects of artificial intelligence* [working paper], Stanford Digital Economy Lab, accessed 21 September 2026. https://digitaleconomy.stanford.edu/app/uploads/2025/11/CanariesintheCoalMine_Nov25.pdf
+
+Brynjolfsson E, Li D and Raymond L (2025b) 'Generative AI at work', *Quarterly Journal of Economics*, 140(2):889-942, doi:10.1093/qje/qjae044.
+
+Davis SJ and von Wachter T (2011) 'Recessions and the costs of job loss', *Brookings Papers on Economic Activity*, 42(2):1-72.
+
+DEWR (Department of Employment and Workplace Relations) (n.d.) *Free TAFE*, DEWR website, accessed 21 September 2026. https://www.dewr.gov.au/skills-reform/free-tafe
+
+DEWR (Department of Employment and Workplace Relations) (2026) *AI and employment in Australia: monitoring framework and evidence to date*, Office of the Chief Economist, DEWR, accessed 21 September 2026. https://www.dewr.gov.au/workplace-relations/resources/ai-and-employment-australia
+
+DISR (Department of Industry, Science and Resources) (2026) *Australian Government response: Senate Select Committee on Adopting Artificial Intelligence (AI) report*, DISR website, accessed 21 September 2026. https://www.industry.gov.au/publications/australian-government-response-senate-select-committee-adopting-artificial-intelligence-ai-report
+
+*Fair Work Act 2009* (Cth).
+
+Gmyrek P, Berg J, Kamiński K, Konopczyński F, Ładna A, Nafradi B, Rosłaniec K and Troszyński M (2025) *Generative AI and jobs: a refined global index of occupational exposure*, ILO Working Paper 140, International Labour Office, doi:10.54394/HETP0387.
+
+Hyman BG, Kovak BK and Leive A (2024) *Wage insurance for displaced workers*, NBER Working Paper 32464, National Bureau of Economic Research, doi:10.3386/w32464.
+
+JSA (Jobs and Skills Australia) (2025a) *Our Gen AI transition: implications for work and skills*, JSA website, accessed 21 September 2026. https://www.jobsandskills.gov.au/publications/generative-ai-capacity-study-report
+
+JSA (Jobs and Skills Australia) (2025b) *Our Gen AI transition: exposure*, JSA website, accessed 21 September 2026. https://www.jobsandskills.gov.au/studies/generative-artificial-intelligence-capacity-study/our-gen-ai-transition-exposure
+
+JSA (Jobs and Skills Australia) (2025c) *Our Gen AI transition: labour market dynamism*, JSA website, accessed 21 September 2026. https://www.jobsandskills.gov.au/studies/generative-artificial-intelligence-capacity-study/our-gen-ai-transition-labour-market-dynamism
+
+MOE (Ministry of Education, Singapore) (2024) *New SkillsFuture Level-Up Programme to boost mid-career upskilling and reskilling* [media release], MOE website, accessed 21 September 2026. https://www.moe.gov.sg/news/press-releases/20240304-new-skillsfuture-level-up-programme-to-boost-mid-career-upskilling-and-reskilling
+
+OECD (Organisation for Economic Co-operation and Development) (2023) *OECD employment outlook 2023: artificial intelligence and the labour market*, OECD Publishing, doi:10.1787/08785bba-en.
+
+PC (Productivity Commission) (2025) *Harnessing data and digital technology*, Inquiry report no. 111, PC, Canberra, accessed 21 September 2026. https://pc.gov.au/inquiries/current/data-digital
+
+Rishworth A (2026a) *COSBOA National Small Business Summit* [speech], Ministers' Media Centre website, accessed 21 September 2026. https://ministers.dewr.gov.au/rishworth/cosboa-national-small-business-summit
+
+Rishworth A (2026b) *AFR Workforce Summit, Sydney* [speech], Ministers' Media Centre website, accessed 21 September 2026. https://ministers.dewr.gov.au/rishworth/afr-workforce-summit-sydney
